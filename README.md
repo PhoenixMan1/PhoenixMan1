@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Céad míle fáilte. (A thousand welcomes)
+
+My name is Caoimhin Malone. I'm from ireland and very proud of it.
+
+I'm currently studying electronic and computer engineering in University of Galway.
+
+
 <!--
 **PhoenixMan1/PhoenixMan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Slán anois agus tóg go bog é. (Goodbye now and take it easy)
